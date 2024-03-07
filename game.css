@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+    overflow: hidden;
+}
+#heading{
+    margin: 70px 630px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}
+.table{
+    background-color: rosybrown;
+    height: 500px;
+    width: 500px;
+    margin: 9px 500px;
+}
+.table tbody tr td{
+    border: 2px solid black;
+}
+#restart{
+    margin-left: 700px;
+    margin-top: -120px;
+    width: 100px;
+    height: 30px;
+    border-radius: 20%;
+    background-color: bisque;
+}
